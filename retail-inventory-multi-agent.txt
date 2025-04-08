@@ -1,0 +1,25 @@
+retail-inventory-multi-agent/
+│
+├── agents/                   # Agent definitions and behaviors
+│   ├── base_agent.py
+│   ├── inventory_agent.py
+│   └── supplier_agent.py
+│
+├── environment/              # Simulation environment
+│   └── retail_env.py
+│
+├── data/                     # Input datasets or generated data
+│   └── inventory_data.csv
+│
+├── results/                  # Logs, metrics, and outputs
+│
+├── tests/                    # Unit tests
+│   └── test_agents.py
+│
+├── notebooks/                # Jupyter notebooks for exploration
+│   └── simulation_demo.ipynb
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+└── main.py                   # Entry point to run the simulation

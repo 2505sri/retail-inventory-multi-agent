@@ -1,0 +1,22 @@
+# Optimising Retail Inventory with Multi-Agent Systems
+
+This project explores how multi-agent systems can be used to optimize inventory levels in retail using agent-based modeling, simulation, and intelligent decision-making.
+
+## Features
+- Intelligent inventory agents managing stock levels.
+- Supplier agents that respond to orders.
+- Simulation environment for testing retail scenarios.
+
+## Technologies
+- Python
+- Agent-based modeling (e.g., Mesa or custom agents)
+- Pandas, NumPy, Matplotlib
+- Jupyter Notebooks
+
+## Getting Started
+
+### Installation
+```bash
+git clone https://github.com/yourusername/retail-inventory-multi-agent.git
+cd retail-inventory-multi-agent
+pip install -r requirements.txt
